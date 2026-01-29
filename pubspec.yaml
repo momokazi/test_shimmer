@@ -1,7 +1,7 @@
 name: reusable_shimmer
 description: "A reusable shimmer and skeleton package for Flutter."
-version: 1.0.0+1
-homepage: https://example.com/reusable_shimmer
+version: 1.0.0
+repository: https://github.com/example/reusable_shimmer
 
 environment:
   sdk: ^3.9.2
